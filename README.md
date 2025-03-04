@@ -3,8 +3,8 @@
 **The Bank Customer Churn Model** is a predictive analytics tool designed to identify customers at risk of leaving a bank. It leverages historical data and machine learning techniques to analyze key churn indicators, providing valuable insights to improve customer retention strategies.
 
 # Features
-**Customer Analysis:** Evaluates customer demographics, transaction history, and account activity to predict churn risk.< br / >
-**Predictive Modeling:** Utilizes machine learning algorithms to assess churn probability.< br / >
+**Customer Analysis:** Evaluates customer demographics, transaction history, and account activity to predict churn risk.  
+**Predictive Modeling:** Utilizes machine learning algorithms to assess churn probability.   
 **Actionable Insights:** Helps banks develop targeted retention strategies.< br / >
 **Data Visualization:** Presents key trends and patterns using interactive dashboards.
 
